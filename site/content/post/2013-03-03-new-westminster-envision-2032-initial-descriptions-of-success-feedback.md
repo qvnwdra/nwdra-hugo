@@ -103,7 +103,8 @@ style="color: #1f497d; font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;; 
   
 
 <span
-style="color: #1f497d; font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;; font-size: 10.0pt;">![](/img/blog/2013-03-03-new-westminster-envision-2032-initial-descriptions-of-success-feedback-?ui=2&ik=1372d0d0ea&view=att&th=13d32bdb2f3e7938&attid=0.2&disp=emb&realattid=4bdfc618e95452b8_0.1&zw&atsh=1)</span><span
+style="color: #1f497d; font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;; font-size: 10.0pt;">
+</span><span
 lang="EN-US"
 style="color: #1f497d; font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;; font-size: 10.0pt;"> </span><span
 lang="EN-US"

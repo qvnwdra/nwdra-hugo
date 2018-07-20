@@ -76,7 +76,8 @@ style="font-family: Calibri, sans-serif; font-size: 11pt;"></span>
   
 
 <span
-style="color: #1f497d; font-family: Calibri, sans-serif; font-size: 10pt;">![](/img/blog/2012-06-07-lower-fraser-river-commentary-issued-6-june2012-3-15pm-?ui=2&ik=1372d0d0ea&view=att&th=137c7c6a6763f391&attid=0.1&disp=emb&zw&atsh=1) </span><span
+style="color: #1f497d; font-family: Calibri, sans-serif; font-size: 10pt;">
+</span><span
 style="font-family: Arial, sans-serif; font-size: 9pt;">City of New
 Westminster  |  Administration</span><span
 style="font-family: Calibri, sans-serif; font-size: 11pt;"></span>

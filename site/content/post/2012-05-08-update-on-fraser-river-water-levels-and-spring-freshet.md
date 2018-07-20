@@ -85,7 +85,8 @@ lang="en-us"></span><span lang="en-us"></span><span lang="en-us"></span>
 
 <span lang="en-us"></span><span lang="en-us"></span><span
 lang="en-us"></span><span lang="en-us"><span
-style="color: black; font-family: Arial; font-size: x-small;">![](/img/blog/2012-05-08-update-on-fraser-river-water-levels-and-spring-freshet-?ui=2&ik=1372d0d0ea&view=att&th=1372eb890f51f54f&attid=0.1&disp=emb&zw&atsh=1)</span></span><span
+style="color: black; font-family: Arial; font-size: x-small;">
+</span></span><span
 lang="en-us"></span><span lang="en-us"></span><span
 lang="en-us"></span><span lang="en-us"><span
 style="color: #1f497d; font-family: Calibri; font-size: x-small;"> </span></span><span
