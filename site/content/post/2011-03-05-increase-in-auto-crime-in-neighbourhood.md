@@ -43,4 +43,5 @@ Police</span>
 
 <span lang="EN-US" style="font-size: 12pt;">             </span><span
 lang="EN-US">[<span
-style="color: windowtext; font-size: 12pt; text-decoration: none;">![](/img/blog/2011-03-05-increase-in-auto-crime-in-neighbourhood-?ui=2&ik=1372d0d0ea&view=att&th=12e88c12d10eb085&attid=0.1&disp=emb&zw)</span>](http://192.168.13.14/GraphicApp/Files5008/NWPS%20Crest%20High-Res.jpg)</span>
+style="color: windowtext; font-size: 12pt; text-decoration: none;">
+</span>](http://192.168.13.14/GraphicApp/Files5008/NWPS%20Crest%20High-Res.jpg)</span>
