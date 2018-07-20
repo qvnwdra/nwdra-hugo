@@ -5,7 +5,6 @@ published = 2014-11-07T12:51:00.002000-08:00
 title = "NWDRA General Meeting"
 slug = "2014-11-07-nwdra-general-meeting"
 +++
-[![](/img/blog/thumbnails/2014-11-07-nwdra-general-meeting-NWDRA%2BLOGO.png)](/img/blog/2014-11-07-nwdra-general-meeting-NWDRA%2BLOGO.png)
 
 **<span lang="EN-US"
 style="color: black; font-family: Gudea; font-size: 14pt; letter-spacing: 0pt;"></span>** 
