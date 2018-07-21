@@ -11,7 +11,7 @@ slug = "2016-10-25-nwdra-november-2-2016-meeting"
 
   
 
-[![](/img/blog/thumbnails/2016-10-25-nwdra-november-2-2016-meeting-NWDRA%2BLogo.png)](/img/blog/2016-10-25-nwdra-november-2-2016-meeting-NWDRA%2BLogo.png)
+[![](/img/blog/thumbnails/2016-10-25-nwdra-november-2-2016-meeting-NWDRA-Q-2BLogo.png)](/img/blog/2016-10-25-nwdra-november-2-2016-meeting-NWDRA-Q-2BLogo.png)
 
 <span lang="EN-US"
 style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; mso-ansi-language: EN-US; mso-bidi-language: AR-SA; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US;">  

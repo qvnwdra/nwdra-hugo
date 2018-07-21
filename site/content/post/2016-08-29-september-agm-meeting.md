@@ -7,7 +7,7 @@ slug = "2016-08-29-september-agm-meeting"
 +++
 <span lang="EN-US"></span><span lang="EN-US"></span>
 
-[![](/img/blog/thumbnails/2016-08-29-september-agm-meeting-NWDRA%2BLogo.png)](/img/blog/2016-08-29-september-agm-meeting-NWDRA%2BLogo.png)
+[![](/img/blog/thumbnails/2016-08-29-september-agm-meeting-NWDRA-Q-2BLogo.png)](/img/blog/2016-08-29-september-agm-meeting-NWDRA-Q-2BLogo.png)
 
 <span lang="EN-US"
 style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 115%; mso-ansi-language: EN-US; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-no-proof: yes;">  

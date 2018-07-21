@@ -5,7 +5,7 @@ published = 2016-05-03T11:27:00-07:00
 title = "May Meeting"
 slug = "2016-05-03-may-meeting"
 +++
-[![](/img/blog/thumbnails/2016-05-03-may-meeting-NWDRA%2BLOGO.png)](/img/blog/2016-05-03-may-meeting-NWDRA%2BLOGO.png)
+[![](/img/blog/thumbnails/2016-05-03-may-meeting-NWDRA-Q-2BLOGO.png)](/img/blog/2016-05-03-may-meeting-NWDRA-Q-2BLOGO.png)
 
   
 **<span style="font-size: 16.0pt; line-height: 107%;">THE NEW

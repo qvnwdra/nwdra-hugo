@@ -8,7 +8,7 @@ slug = "2016-03-21-2nd-annual-flea-market"
 <span style="font-size: 16.0pt; line-height: 107%;">  
 </span>
 
-[![](/img/blog/thumbnails/2016-03-21-2nd-annual-flea-market-NWDRA%2BLOGO.png)](/img/blog/2016-03-21-2nd-annual-flea-market-NWDRA%2BLOGO.png)
+[![](/img/blog/thumbnails/2016-03-21-2nd-annual-flea-market-NWDRA-Q-2BLOGO.png)](/img/blog/2016-03-21-2nd-annual-flea-market-NWDRA-Q-2BLOGO.png)
 
 <span style="font-size: 16.0pt; line-height: 107%;">  
 </span>

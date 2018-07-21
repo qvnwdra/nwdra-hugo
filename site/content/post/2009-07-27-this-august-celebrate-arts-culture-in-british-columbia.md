@@ -5,7 +5,7 @@ published = 2009-07-27T11:45:00-07:00
 title = "This August Celebrate Arts & Culture in British Columbia"
 slug = "2009-07-27-this-august-celebrate-arts-culture-in-british-columbia"
 +++
-[![](/img/blog/thumbnails/2009-07-27-this-august-celebrate-arts-culture-in-british-columbia-2009LO%7E1.JPG)](/img/blog/2009-07-27-this-august-celebrate-arts-culture-in-british-columbia-2009LO%7E1.JPG)  
+[![](/img/blog/thumbnails/2009-07-27-this-august-celebrate-arts-culture-in-british-columbia-2009LO-Q-7E1.JPG)](/img/blog/2009-07-27-this-august-celebrate-arts-culture-in-british-columbia-2009LO-Q-7E1.JPG)  
 August 1-31, 2009  
   
 The 8th annual BC Cultural Crawl is a month-long celebration of the

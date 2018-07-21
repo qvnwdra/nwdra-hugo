@@ -5,7 +5,7 @@ published = 2016-03-07T16:44:00.003000-08:00
 title = "March 16 meeting"
 slug = "2016-03-07-march-16-meeting"
 +++
-[![](/img/blog/thumbnails/2016-03-07-march-16-meeting-NWDRA%2BLOGO.png)](/img/blog/2016-03-07-march-16-meeting-NWDRA%2BLOGO.png)
+[![](/img/blog/thumbnails/2016-03-07-march-16-meeting-NWDRA-Q-2BLOGO.png)](/img/blog/2016-03-07-march-16-meeting-NWDRA-Q-2BLOGO.png)
 
   
   

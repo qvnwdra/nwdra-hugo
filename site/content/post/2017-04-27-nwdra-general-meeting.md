@@ -5,7 +5,7 @@ published = 2017-04-27T11:43:00.001000-07:00
 title = "NWDRA General Meeting"
 slug = "2017-04-27-nwdra-general-meeting"
 +++
-[![](/img/blog/thumbnails/2017-04-27-nwdra-general-meeting-NWDRA%2BLOGO.png)](/img/blog/2017-04-27-nwdra-general-meeting-NWDRA%2BLOGO.png)
+[![](/img/blog/thumbnails/2017-04-27-nwdra-general-meeting-NWDRA-Q-2BLOGO.png)](/img/blog/2017-04-27-nwdra-general-meeting-NWDRA-Q-2BLOGO.png)
 
   
 **<span lang="EN-US"
