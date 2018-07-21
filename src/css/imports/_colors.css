@@ -13,7 +13,8 @@
 }
 
 .title {
-  color: var(--title);
+  color: var(--fgtitle);
+  background-color: var(--bgtitle);
 }
 
 .off-white {
