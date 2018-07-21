@@ -40,6 +40,10 @@
   background-color: var(--primary);
 }
 
+.bg-title {
+  background-color: var(--title);
+}
+
 .bg-highlight {
   background-color: var(--highlight);
 }
