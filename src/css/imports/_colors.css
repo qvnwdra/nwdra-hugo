@@ -12,6 +12,10 @@
   color: var(--white);
 }
 
+.title {
+  color: var(--fgtitle);
+}
+
 .off-white {
   color: var(--off-white);
 }
@@ -41,7 +45,7 @@
 }
 
 .bg-title {
-  background-color: var(--title);
+  background-color: var(--bgtitle);
 }
 
 .bg-highlight {
