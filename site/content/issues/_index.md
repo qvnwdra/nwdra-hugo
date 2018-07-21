@@ -1,7 +1,7 @@
 ---
-title: "Values"
+title: "Issues"
 image: /img/about-jumbotron.jpg
-values:
+issues:
   - heading: "Shade-grown coffee"
     text: >
       Coffee is a small tree or shrub that grows in the forest

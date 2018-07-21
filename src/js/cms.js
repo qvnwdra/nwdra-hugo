@@ -2,9 +2,9 @@ import React from "react";
 import CMS from "netlify-cms";
 
 import HomePreview from "./cms-preview-templates/home";
-import PostPreview from "./cms-preview-templates/post";
-import ProductsPreview from "./cms-preview-templates/products";
-import ValuesPreview from "./cms-preview-templates/values";
+import NewsPreview from "./cms-preview-templates/news";
+import InformationPreview from "./cms-preview-templates/information";
+import IssuesPreview from "./cms-preview-templates/issues";
 import ContactPreview from "./cms-preview-templates/contact";
 
 
@@ -22,8 +22,8 @@ class ColorControl extends React.Component {
 
 CMS.registerPreviewStyle("/css/main.css");
 CMS.registerPreviewTemplate("home", HomePreview);
-CMS.registerPreviewTemplate("post", PostPreview);
-CMS.registerPreviewTemplate("products", ProductsPreview);
-CMS.registerPreviewTemplate("values", ValuesPreview);
+CMS.registerPreviewTemplate("news", NewsPreview);
+CMS.registerPreviewTemplate("information", InformationPreview);
+CMS.registerPreviewTemplate("issues", IssuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerWidget("color", ColorControl);
