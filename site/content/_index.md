@@ -11,14 +11,14 @@ blurb:
 intro:
   heading: About Downtown New Westminster
   text: >-
-    About about abou
+    New Westminster has a rich history....
 information:
-  - image: img/illustrations-coffee.svg
+  - image: img/New_Westminster_Courthouse.jpg
     text: >-
-      Info info info info 
-  - image: /img/illustrations-coffee-gear.svg
+      Historical New West
+  - image: /img/armisticedayo.jpg
     text: >-
-      moreinfo moreinfo moreinfo
+      Learn more about ...
 issues:
   heading: Issues
   text: >-
