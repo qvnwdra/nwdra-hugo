@@ -1,6 +1,6 @@
 # NWDRA.CA Site Source
 
-This site is based on  a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms).  
+This site is based on  a small business [template](https://github.com/netlify-templates/kaldi-hugo-cms-template)  built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms).  
 
 ## Deployment 
 
