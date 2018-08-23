@@ -13,4 +13,4 @@ is valuable for us.
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
 You can also use the form below for any inquiries about meetings, events and
-issues.  Don’t be shy, drop us a line!
+campaigns.  Don’t be shy, drop us a line!

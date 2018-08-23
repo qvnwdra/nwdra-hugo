@@ -19,9 +19,9 @@ information:
   - image: /img/armisticedayo.jpg
     text: >-
       Learn more about ...
-issues:
-  heading: Issues
+campaigns:
+  heading: Campaigns
   text: >-
-      Issues affecting downtown here
+      NWDRA Campaigns
 ---
 
