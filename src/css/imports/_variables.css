@@ -1,7 +1,7 @@
 :root {
 	/* Colors */
 	--primary: rgba(0, 64, 255, 1);
-	--fgtitle: rgba(200, 255, 255, 1);
+	--fgtitle: rgba(0, 0, 255, 1);
 	--bgtitle: rgba(0, 0, 0, 0);
 	--highlight: rgba(153, 204, 255, 1);
 	--white: rgba(255, 255, 255, 1);

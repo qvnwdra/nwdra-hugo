@@ -1,0 +1,1 @@
+<!-- {{ partial "text-and-image" (dict "heading" .Params.campaigns.heading "text" .Params.campaings.text "buttonText" "Read more" "buttonLink" "/campaigns") } -->
