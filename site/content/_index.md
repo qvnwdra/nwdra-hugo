@@ -6,10 +6,10 @@ blurb:
   heading: Join Us!
   text: >-    
     Memberships are just $5.00 per family for one year.
-    REGULAR MEETINGS 7pm
-    (1st Wednesday of every month)
-    Holy Trinity Cathedral, Parish Hall
-    514 Carnarvon Street, New Westminster  
+    REGULAR MEETINGS: 7pm 1st Wednesday of every month,
+    Holy Trinity Cathedral, Parish Hall,
+    514 Carnarvon Street  
+  image: img/holy-trinity-cathedral.png
 intro:
   heading: Do you live between Royal Avenue and the Fraser River?
   text: >-
@@ -24,6 +24,6 @@ campaigns:
       we are currently working with the involved stakeholders to affect change wher
       it is needed most.  Click the Information button to read about our campaigns 
       seeking to improve the livability, health and general welfare of our community. 
-  image: img/nwcl.jpg
+  image: img/bridges.png
 ---
 
