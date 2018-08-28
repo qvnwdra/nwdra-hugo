@@ -1,7 +1,7 @@
 ---
 title: NWDRA
 subtitle: New Westminster Downtown Residents Association
-image: /img/banner5.png
+image: /img/banner7.png
 blurb:
   heading: Join Us!
   text: >-    
