@@ -21,7 +21,7 @@ campaigns:
   heading: Campaigns
   text: >-
       As board members and residents of the community of Downtown New Westminster,
-      we are currently working with the involved stakeholders to affect change wher
+      we are currently working with the involved stakeholders to affect change where
       it is needed most.  Click the Information button to read about our campaigns 
       seeking to improve the livability, health and general welfare of our community. 
   image: img/bridges.png

@@ -4,7 +4,7 @@
 		<h2 class="f3 b lh-title mb3">News and Events</h2>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range first 6 (where .Data.Pages "Type" "news") }}
+			{{ range first 6 (where .Data.Pages "Type" "post") }}
 				<div class="ph1-ns w-50-ns flex">
 					{{ .Render "li" }}
 				</div>
@@ -12,7 +12,7 @@
 		</div>
 
 		<div class="tc">
-			<a href="/news" class="btn raise">Read more</a>
+			<a href="/post" class="btn raise">Read more</a>
 		</div>
 
 	</div>
