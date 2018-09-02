@@ -1,0 +1,40 @@
+
+*** These modified files were found in JOE when it aborted on Sat Sep  1 00:59:40 2018
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+campaigns
+staging
+
+*** File '(Unnamed)'
+csw
+css
+cssI
+main
+ness
+news
+primary
+S
+calendar
+gcal
+
+*** File '(Unnamed)'
+partials/calendar.html
+partials/head.html
+partials/head.html
+templates/layout.html
+index.html
+partials/calendar.html
+../../layouts/partials/calendar.html
+../../layouts/partials/calendar.html
+../../layouts/partials/calendar.html
+../../layouts/partials/calendar.html
+../../layouts/partials/calendar.html
+../../layouts/partials/calendar.html
+../../layouts/partials/calendar.html
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

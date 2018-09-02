@@ -1,0 +1,47 @@
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/moment.min.js"></script>
+  <script type="text/javascript" src="/js/fullcalendar.min.js"></script>
+  <script type="text/javascript" src="/js/gcal.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('#calendar').fullCalendar({
+        googleCalendarApiKey: 'AIzaSyBXh168Z_ev4qhTO-HwO-hA5fAVtzZIemw',
+        eventSources: [
+            {
+            googleCalendarId: 'ayb.ca_7es7pf19pq4ar1ufufatscra58@group.calendar.google.com',
+            className: 'nwdra-event'
+            },
+            {
+            googleCalendarId: 'en.canadian#holiday@group.v.calendar.google.com',
+            className: 'ph-event'
+            },
+            {
+            googleCalendarId: 'ayb.ca_hq4cdd7g30gsdu6lfp21tgh5js@group.calendar.google.com',
+            className: 'nw-event'
+            }
+        ],
+//        events: {
+//            googleCalendarId: 'ayb.ca_uu2fcs16l3obqrnh2hs3dildu8@group.calendar.google.com'
+//        },
+        lazyFetching:false,
+        header: {
+          left: 'prev,next,today',
+          center: 'title',
+          right: 'month,agendaWeek,agendaDay'
+        }
+      });
+      if (typeof ValidateForm == 'function') { 
+        ValidateForm();
+      }
+    });
+  </script>
+
+
+<div class="bg-grey-1 pv4">
+  <div class="ph3 mw7 center">
+    <h2 class="f3 b lh-title mb2">Event Calendar</h2>
+    <div id='calendar' class=" mhn2-ns mb3">
+    </div>
+  </div>
+</div>
+
