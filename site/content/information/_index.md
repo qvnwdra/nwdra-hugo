@@ -23,7 +23,13 @@ testimonials:
   - author: Sue Barteluk - President
     quote: >-
       I enjoy leading the NWDRA
-full_image: /img/clouds.png
+links:
+  - title: New Westminster City Page
+    link: >-
+      https://www.newwestcity.ca
+  - title: Other Residents Associations in New Westminster
+    link: >-
+      https://www.newwestcity.ca/discover-new-west/residents-associations
 ---
 
 
