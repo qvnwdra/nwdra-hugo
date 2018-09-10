@@ -6,23 +6,17 @@ heading: About NWDRA
 description: >-
   TBD.
 intro:
-  blurbs:
-    - image: /img/bunny.png
-      text: >
-
-        The mission of the Downtown Residents Association is to ...
+  text: >
+    The Downtown Residents Association is an organization for residents
+    of New Westminster between Royal Avenue and the Fraser.  We have regular
+    meetings to discuss local initiatives, meet our neighbours, hear interesting 
+    guest speakers and express our concerns and ideas for creating a safer, more 
+    liveable community.
 
 main:
   heading: Board of Directors
   description: >
-    Our board ....
-  image1:    
-    alt: Board of directors
-    image: /img/meeting-room.jpg
-testimonials:
-  - author: Sue Barteluk - President
-    quote: >-
-      I enjoy leading the NWDRA
+
 links:
   - title: New Westminster City Page
     link: >-
@@ -32,4 +26,11 @@ links:
       https://www.newwestcity.ca/discover-new-west/residents-associations
 ---
 
-
+* Susan Barteluk-President
+* Maria Marcu
+* Roland Guasparini
+* Shelley Murphy
+* Kate Abel
+* Dami Gittens
+* David Love
+* Quentin Vandermerwe

@@ -12,11 +12,12 @@ blurb:
   image: img/holy-trinity-cathedral.png
 intro:
   heading: Do you live between Royal Avenue and the Fraser River?
+  link: /information
   text: >-
     The Downtown Residents Association is your place to learn about 
     local initiatives, meet your neighbours, hear interesting guest 
     speakers and express your concerns and ideas for creating a safer, 
-    more liveable community.    
+    more liveable community.
 campaigns:
   heading: Campaigns
   text: >-
@@ -25,5 +26,6 @@ campaigns:
       it is needed most.  Click the Information button to read about our campaigns 
       seeking to improve the livability, health and general welfare of our community. 
   image: img/bridges.png
+  link: /campaigns
 ---
 
