@@ -6,7 +6,7 @@ blurb:
   heading: Join Us!
   text: >-    
     Memberships are just $5.00 per family for one year.
-    REGULAR MEETINGS: 7pm 1st Wednesday of every month,
+    REGULAR MEETINGS: 7pm 1st Wednesday of every second month,
     Holy Trinity Cathedral, Parish Hall,
     514 Carnarvon Street  
   image: img/holy-trinity-cathedral.png
