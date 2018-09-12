@@ -7,11 +7,20 @@ description: >-
   TBD.
 intro:
   text: >
-    The Downtown Residents Association is an organization for residents
-    of New Westminster between Royal Avenue and the Fraser.  We have regular
-    meetings to discuss local initiatives, meet our neighbours, hear interesting 
-    guest speakers and express our concerns and ideas for creating a safer, more 
-    liveable community.
+
+    TOGETHER OUR VOICE IS STRONG! 
+    Attend a meeting - there is no charge to participate. 
+    If you decide to join, the fee is $5.00/year, and gives 
+    you a vote, in addition to your voice. You will also then 
+    be eligible to run for office as a NWDRA Board Member, or 
+    join a Committee. 
+
+    There are internal committees for various 
+    concerns and events. We presently have members on City Committees, 
+    including Traffic Advisory, Community Policing, and the Homeless Coalition.
+
+
+
 
 main:
   heading: Board of Directors
@@ -24,6 +33,9 @@ links:
   - title: Other Residents Associations in New Westminster
     link: >-
       https://www.newwestcity.ca/discover-new-west/residents-associations
+  - title: Downtown New West BIA
+    link: >-
+      https://www.newwestcity.ca/discover-new-west/residents-associations
 ---
 
 * Susan Barteluk-President
@@ -34,3 +46,5 @@ links:
 * Dami Gittens
 * David Love
 * Quentin Vandermerwe
+
+
