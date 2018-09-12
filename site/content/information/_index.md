@@ -35,7 +35,7 @@ links:
       https://www.newwestcity.ca/discover-new-west/residents-associations
   - title: Downtown New West BIA
     link: >-
-      https://www.newwestcity.ca/discover-new-west/residents-associations
+      http://www.downtownnewwest.ca/
 ---
 
 * Susan Barteluk-President
