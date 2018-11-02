@@ -1,6 +1,6 @@
 ---
 title: "Campaigns"
-image: /img/bridge-night.png
+image: /img/courtslice.jpg
 campaigns:
   - heading: "410 Columbia Street"
     text: >
