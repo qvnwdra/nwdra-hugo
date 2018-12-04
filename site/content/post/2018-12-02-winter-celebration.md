@@ -9,4 +9,5 @@ description: >-
 
 **WHERE:** Anvil Centre, 777 Columbia Street
  
-For more information, see: [Winter Celebrations at Anvil Centre](https://www.newwestcity.ca/calendar-of-events/events/5346.php)
+For more information, see: [Winter Celebrations at Anvil Centre](https://anvilcentre.com/events/winter-celebrations/)
+
