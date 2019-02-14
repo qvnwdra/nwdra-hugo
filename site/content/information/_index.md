@@ -36,6 +36,9 @@ links:
   - title: Downtown New West BIA
     link: >-
       http://www.downtownnewwest.ca/
+  - title: Report city maintenance issues at SeeClickFix
+    link: >-
+      https://seeclickfix.com/
 ---
 
 * Susan Barteluk-President
