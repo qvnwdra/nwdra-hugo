@@ -18,8 +18,10 @@ description: >-
 
 **WHERE:** Holy Trinity Cathedral at 514 Carnarvon St.
 
-**Guest Speakers**
+**Guest Speaker:**
 
-TBA
+*Angela Sealy. founder of the  New Westminster Community Action Planning Table*
+
+The NWCAPT is a new group founded by Angela Sealy for the purpose of having deep dive dialogues about the issues that affect us in New Westminster.
 
 
