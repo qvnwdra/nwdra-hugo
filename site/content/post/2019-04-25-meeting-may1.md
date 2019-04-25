@@ -12,7 +12,7 @@ description: >-
 
 **Public Meeting**
 
-**WHEN:** Wednesday March 6th, 2019
+**WHEN:** Wednesday May 1st, 2019
 
 **TIME** : 7:00pm-9:00 pm
 
@@ -20,8 +20,17 @@ description: >-
 
 **Guest Speaker:**
 
-*Angela Sealy. founder of the  New Westminster Community Action Planning Table*
+*Doug Whicker, Strata President - Carnarvon Place Strata NW-3213*
 
-The NWCAPT is a new group founded by Angela Sealy for the purpose of having deep dive dialogues about the issues that affect us in New Westminster.
+Discussions will include:
+* Purpose of a Strata
+* Purpose of a Strata Council
+* Shared Resources for Downtown New Westminster Strata
+* Strata Depreciation Study
+* Strata Insurance
+* Strata Bylaw Enforcement
+
+There will be a Q&A with Doug after his presentation. This should be a very informative evening for anyone living in or thinking of living in a strata property. 
+
 
 
