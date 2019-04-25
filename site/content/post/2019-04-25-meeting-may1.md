@@ -23,6 +23,7 @@ description: >-
 *Doug Whicker, Strata President - Carnarvon Place Strata NW-3213*
 
 Discussions will include:
+
 * Purpose of a Strata
 * Purpose of a Strata Council
 * Shared Resources for Downtown New Westminster Strata
