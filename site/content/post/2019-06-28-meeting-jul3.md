@@ -1,6 +1,6 @@
 ---
 title: Public Meeting
-date: 2019-04-25T15:00:00.000Z
+date: 2019-06-28T15:00:00.000Z
 description: >-
   The New Westminster Downtown Residents Association Board invites you to a
   Public meeting on July 3, 2019.
