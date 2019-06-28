@@ -12,7 +12,7 @@ description: >-
 
 **Public Meeting**
 
-**WHEN:** Wednesday May 1st, 2019
+**WHEN:** Wednesday July 3rd, 2019
 
 **TIME** : 7:00pm-9:00 pm
 
