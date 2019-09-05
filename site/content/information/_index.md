@@ -41,14 +41,11 @@ links:
       https://seeclickfix.com/
 ---
 
-* Susan Barteluk-President
+* Quentin Vandermerwe - President
+* Jonathan Graves
 * Maria Marcu
 * Roland Guasparini
 * Shelley Murphy
 * Kate Abel
-* Dami Gittens
 * David Love
-* Jonathan Graves
-* Quentin Vandermerwe
-
 
