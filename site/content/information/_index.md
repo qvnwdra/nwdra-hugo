@@ -38,7 +38,10 @@ links:
       http://www.downtownnewwest.ca/
   - title: Report city maintenance issues at SeeClickFix
     link: >-
-      https://seeclickfix.com/
+       https://www.newwestcity.ca/services/online-services/report-a-problem
+  - title: Report non-emergency issues online to the police
+    link: >-
+      https://www.nwpolice.org/services/report-a-crime/
 ---
 
 * Quentin Vandermerwe - President
