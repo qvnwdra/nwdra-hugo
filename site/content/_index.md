@@ -2,6 +2,11 @@
 title: NWDRA
 subtitle: New Westminster Downtown Residents Association
 image: /img/banner7.png
+nextmeeting:
+  heading: Next Public Meeting: April 7
+  text: >-    
+    Join us for a Zoom meeting with mayor Jonathan Cote and 
+    Councillor Mary Trentadue.  https://bit.ly/NWDRA211
 blurb:
   heading: Join Us!
   text: >-    
